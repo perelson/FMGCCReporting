@@ -18,6 +18,3 @@ ADD	[Shot] [varchar](50) NULL,
 	[OreWasteBUJATTID] [int] NULL
 
 GO
-
-SET ANSI_PADDING OFF
-GO
